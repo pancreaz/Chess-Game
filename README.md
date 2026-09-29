@@ -3,7 +3,7 @@ A 2-Player Local 2D Chess Game built in C# (.NET 9 Windows Forms).
 
 Featuring a top-down view, vector-rendered 2D chess pieces, move highlighting, checkmate/check warnings, and move validation.
 
-<img width="1920" height="1017" alt="Screenshot (307)" src="https://github.com/user-attachments/assets/7ea0fd7e-b8cd-4916-8112-5acf3328116d" />
+<img width="1920" height="1018" alt="Screenshot (308)" src="https://github.com/user-attachments/assets/695a6673-b212-47cf-b76a-6b12a7463b49" />
 
 # Features :
 
