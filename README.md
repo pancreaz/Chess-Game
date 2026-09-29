@@ -22,8 +22,7 @@ Featuring a top-down view, vector-rendered 2D chess pieces, move highlighting, c
 
 # Run on local computer :
 
-<hr>
-# Steps :
+## Steps :
   1. Download folder
   2. Open cmd inside the chess folder
   3. run "dotnet run"
